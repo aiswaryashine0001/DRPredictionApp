@@ -9,7 +9,7 @@ CORS(app)  # Allow CORS for all routes
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="achusonu@123",
+    password="root",
     database="drpredictions"
 )
 
